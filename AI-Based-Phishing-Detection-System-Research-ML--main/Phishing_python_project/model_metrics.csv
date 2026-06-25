@@ -1,0 +1,2 @@
+model,accuracy,precision_0,recall_0,f1_0,support_0,precision_1,recall_1,f1_1,support_1,cm_00,cm_01,cm_10,cm_11,report_path,confusion_image
+phishing_model.pkl,0.4788568308000364,0.7197074276295456,0.4444995864350703,0.5495752045311517,78585,0.28826934050705144,0.5651590218954771,0.3817965882098899,31285,34931,43654,13604,17681,N:\OneDrive\Desktop\phishing-detection-app\Phishing_python_project\model_reports\phishing_model_classification_report.txt,N:\OneDrive\Desktop\phishing-detection-app\Phishing_python_project\model_reports\phishing_model_confusion_matrix.png

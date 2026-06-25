@@ -1,0 +1,10 @@
+Model: phishing_model.pkl
+
+              precision    recall  f1-score   support
+
+     good(0)       0.72      0.44      0.55     78585
+      bad(1)       0.29      0.57      0.38     31285
+
+    accuracy                           0.48    109870
+   macro avg       0.50      0.50      0.47    109870
+weighted avg       0.60      0.48      0.50    109870
